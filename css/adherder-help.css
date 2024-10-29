@@ -1,0 +1,7 @@
+#contextual-help-wrap #adherder-help div {
+	display: none;
+}
+
+#contextual-help-wrap #adherder-help h4  { 
+	cursor:pointer; 
+}
